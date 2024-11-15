@@ -17,9 +17,14 @@ ul {
         flex-direction: row;
     }
     .CONTAINER_NAV {
-        
+        display: flex;
+        flex-direction: row;
+        font-size: 10px;
+        justify-content: space-between;
+        align-items: center;
     }
     .CONTAINER_SEC_ONE {
+        margin: 20px;
         display: flex;
         flex-direction: row;
     }
